@@ -1,0 +1,394 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.nexcenIconHeader {
+    height: 20px;
+}
+
+.nexcenNameHeader {
+    color: #263238;
+}
+
+.headerlinks {
+    color: #18191F;
+    font-weight: 450;
+}
+
+.active {
+    font-weight: 500;
+}
+
+.greenishBtn {
+    background-color: #4CAF4F;
+    border: none;
+}
+
+.greenishText {
+    color: #4CAF4F;
+}
+
+.blackishColor {
+    color: #18191F;
+}
+
+.lessonHugeFont {
+    font-weight: 550;
+    font-size: 60px;
+}
+
+.opacityy {
+    opacity: 0.8;
+}
+
+.threedots {
+    height: 10px;
+    margin-top: 30px;
+}
+
+.navbar-collapse {
+    margin-left: 10%;
+}
+
+.greyColor {
+    color: Grey;
+}
+
+.maecenasPara {
+    font-size: 15px;
+    font-weight: 500;
+}
+
+.boycomputer {
+    height: 280px;
+    margin-left: 0px !important;
+    /* align-self: flex-end; */
+}
+
+.opacityy09 {
+    opacity: 0.95;
+}
+
+.containerLogo {
+    overflow-x: auto;
+}
+
+.clientlogo {
+    height: 50px;
+    max-height: 100px;
+    margin-right: 10px;
+}
+
+.clientlogo-container::-webkit-scrollbar {
+    height: 6px;
+}
+
+.clientlogo-container::-webkit-scrollbar-thumb {
+    background-color: #ccc;
+    border-radius: 3px;
+}
+
+.communityPic {
+    height: 50px;
+}
+
+.girlboy {
+    height: 380px;
+}
+
+.clubsAndGroupsHeading {
+    width: 50%;
+}
+
+.btnresponsive {
+    width: 130px;
+    height: 50px;
+}
+
+.helpingbusiness {
+    height: 40px;
+}
+
+.helpingbusiness2outer {
+    min-width: 110px;
+}
+
+.lightGrey {
+    color: #89939E;
+}
+
+.TimSmithDark {
+    height: 320px;
+}
+
+.greenarrow {
+    height: 23px;
+}
+
+.marginTopMinus {
+    margin-top: -90px;
+    border: none;
+    border-radius: 8px;
+    box-shadow: rgba(50, 50, 93, 0.1) 0px 6px 12px -2px, rgba(0, 0, 0, 0.1) 0px 3px 7px -3px;
+}
+
+.pallente {
+    width: 60%;
+}
+
+.whitearrow {
+    height: 15px;
+}
+
+.btnresponsiveBottom {
+    width: 170px;
+}
+
+.homeFooter {
+    background-color: #263238;
+    padding-top: 1px;
+}
+
+.nexcenIconFooter {
+    height: 30px;
+}
+
+.copyrighthome2,
+.copyrighthome1 {
+    font-size: 14px;
+}
+
+.copyrighthome2 {
+    margin-top: -15px;
+}
+
+.socialMediaIconsHome {
+    height: 30px;
+}
+
+.btn:hover {
+    color: white;
+    background-color: #4CAF4F;
+}
+
+.CommunityWidth {
+    width: 50%;
+}
+
+.inputmain {
+    background-color: rgba(255, 255, 255, 0.2);
+    width: 235px;
+    height: 40px;
+    border: none;
+    border-radius: 8px;
+    color: white !important;
+}
+
+
+.emailplaceholder {
+    font-size: 14px;
+
+}
+
+.mthelpingbusiness3-4 {
+    margin-top: 20px;
+}
+
+.toggleNew {
+    background-color: rgb(219, 176, 176);
+    padding-bottom: 30px;
+    padding-top: 10px;
+}
+
+.collapse {
+    display: none;
+}
+
+.fww {
+    font-weight: 800;
+}
+
+img {
+    object-fit: contain;
+}
+
+.clientLogoContainer {
+    overflow-x: auto;
+    white-space: nowrap;
+}
+
+.marginPrevious {
+    margin: 0px !important;
+    margin-left: -0px !important;
+}
+
+.carousel-indicators .active {
+    background-color: #4CAF4F !important;
+}
+
+.carousel-indicators button {
+    position: relative;
+    border: none !important;
+    width: 10px !important;
+    height: 10px !important;
+    margin-right: 3px;
+    margin-left: 3px;
+    background-color: rgba(69, 160, 49, 0.5) !important;
+    border-radius: 50%;
+}
+
+.spacingPallenteAboveFooter {
+    margin-bottom: 30px;
+    margin-top: 100px;
+}
+
+.girlComputerMainMargin {
+    margin-bottom: 65px !important;
+    margin-top: 100px;
+}
+
+.girlboymainMargin {
+    margin-bottom: 80px;
+}
+
+.CarouselInnerMargin {
+    margin-top: 80px;
+}
+
+.carouselMainSpacing {
+    padding-bottom: 30px;
+}
+
+@media(min-width : 767px) and (max-width : 2000px) {
+    .marginPrevious {
+        margin: 0px !important;
+        margin-left: -90px !important;
+    }
+
+    .carouselMainSpacing {
+        padding-bottom: 83px;
+    }
+
+    .marginNext {
+        margin: 0px !important;
+        margin-right: -90px !important;
+    }
+}
+
+@media(max-width : 1150px) {
+
+    .clubsAndGroupsHeading {
+        width: 250px;
+    }
+
+    .lessonHugeFont {
+        font-size: 45px;
+    }
+
+    .navbar-collapse {
+        margin-left: 5%;
+        /* background-color: black; */
+    }
+
+    .nbset {
+        gap: 2px;
+    }
+}
+
+@media(max-width : 1150px) {
+    .TimSmithDark {
+        height: 370px;
+    }
+
+    .navbar-collapse {
+        margin-left: 13%;
+    }
+}
+
+@media(max-width : 1150px) {
+    .CommunityWidth {
+        width: 60%;
+    }
+}
+
+@media(max-width : 1150px) {
+    .pallente {
+        width: 80%;
+    }
+}
+
+@media(max-width : 767px) {
+    .boycomputerOuter {
+        display: flex;
+        justify-content: center;
+        margin-top: 40px;
+    }
+
+    .CommunityWidth {
+        width: 80%;
+    }
+
+    .comthree {
+        min-width: 260px;
+    }
+
+    .comthreeIcon {
+        min-width: 70px;
+    }
+
+    .girlboy {
+        height: 320px;
+    }
+
+    .pallente {
+        font-size: 45px;
+        width: 100%;
+    }
+}
+
+@media(max-width : 667px) {
+    .boycomputer {
+        height: 300px;
+    }
+
+    .TimSmithDark {
+        height: unset;
+        width: 100%;
+    }
+
+    .CommunityWidth {
+        width: 100%;
+    }
+}
+
+@media(max-width : 500px) {
+    .btnresponsive {
+        width: 100%;
+    }
+
+    .helpingbusinessDataResponsive {
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .lessonHugeFont {
+        font-size: 40px;
+    }
+
+    .mthelpingbusiness3-4 {
+        margin-top: 0px;
+    }
+
+    .inputmain {
+        width: 100%;
+    }
+}
+
+@media(max-width : 500px) {
+    .pallente {
+        font-size: 35px;
+    }
+}
